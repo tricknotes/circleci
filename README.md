@@ -8,6 +8,10 @@
 
 Circle CI API Wrapper. Requires ruby `>= 2.0.0`.
 
+**OLD VERSION 1.1.0**
+> Please look into upgrading to version >= 2.0.0 as v1.x will
+> not be supported
+
 ## Install
 
 ```ruby
